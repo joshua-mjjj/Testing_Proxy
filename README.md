@@ -1,0 +1,1 @@
+This is a prototpye for the Konect platform
